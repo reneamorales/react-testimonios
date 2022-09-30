@@ -1,0 +1,29 @@
+ANOTACIONES DEL PROYECTO DE REACT
+
+Esta anotacion corresponde al proyecto de testimonios
+
+Comenzamos exprorando la seccion de testimonios de la pagina, podemos ver e identificar que un claro ejemplo de aplicación de uso de Componente puede ser las tarjetas de cada uno de los testimonios.
+
+Dentro de Source crearemos una carpeta exclusiva de componentes.
+
+
+Importamos la imagen haciendo uso de require, contenido a su vez dentro de llaves, tmb podemos hacerlo mediante la sentencia Import.
+
+PREPARAMOS EL PROYECTO
+----------------------
+Para comenza a visualizar nuestro proyecto, vamos a borrar el archivo de SetupTest
+Dentro de index.js quitamos la ultima importacion.
+ 
+ Asi mismo vamos a modifica el archivo css, para comenzar a trabajar
+
+ Dentro del archivo app.js vamos a mantener el div de con clase app y borraremos todo lo contenido dentro.
+
+ Haremos lo mismo dentro de app.css borrando todas las propiedades por defecto.
+
+ Creamos los componentes.
+ Debemos declararlo dentro de App.js.
+
+Debemos exportarlo y a su ve exportalo por default, esto ultimo debido que hasta el momento solo existe uno solo.
+
+Cuandp vallamos a correr la aplicació dentro del navegador vamos a ver que nos dará un mensaje de error.
+Para resolverlo debemos
